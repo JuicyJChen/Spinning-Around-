@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 f66ab8f654cda769dde63f8e2ba9102acbbfa659 jordchen <jordchen@umich.edu> 1707227362 -0500	initial pull
+f66ab8f654cda769dde63f8e2ba9102acbbfa659 0000000000000000000000000000000000000000 jordchen <jordchen@umich.edu> 1707227380 -0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f66ab8f654cda769dde63f8e2ba9102acbbfa659 jordchen <jordchen@umich.edu> 1707227380 -0500	Branch: renamed refs/heads/master to refs/heads/main
+f66ab8f654cda769dde63f8e2ba9102acbbfa659 d60c34402bcb91dddea5a5eac2271c2d2aedb11e jordchen <jordchen@umich.edu> 1707227401 -0500	commit: Initial commit of spinning around assets
+d60c34402bcb91dddea5a5eac2271c2d2aedb11e d60c34402bcb91dddea5a5eac2271c2d2aedb11e jordchen <jordchen@umich.edu> 1707229065 -0500	checkout: moving from main to jordan/connect_spinning_around_to_ZLG_Library
+d60c34402bcb91dddea5a5eac2271c2d2aedb11e 3541939c5b3577147d9ae8b312e9c70d3c07b933 jordchen <jordchen@umich.edu> 1707235263 -0500	commit: connectd to zlg mobile app
+3541939c5b3577147d9ae8b312e9c70d3c07b933 fd5691427277a51ab1c9dc4e2007a327917568aa jordchen <jordchen@umich.edu> 1707247780 -0500	commit: addressed jonathan's comments
+fd5691427277a51ab1c9dc4e2007a327917568aa fd5691427277a51ab1c9dc4e2007a327917568aa jordchen <jordchen@umich.edu> 1709178226 -0400	checkout: moving from jordan/connect_spinning_around_to_ZLG_Library to jordan/fix_dying_on_spawn_bug
+fd5691427277a51ab1c9dc4e2007a327917568aa 8ffa3c7e355b8717087ed017b05e6705cabc85b2 jordchen <jordchen@umich.edu> 1709178277 -0400	commit: fixing spawn death bug
+8ffa3c7e355b8717087ed017b05e6705cabc85b2 8ffa3c7e355b8717087ed017b05e6705cabc85b2 jordchen <jordchen@umich.edu> 1709690626 -0500	reset: moving to HEAD
+8ffa3c7e355b8717087ed017b05e6705cabc85b2 d60c34402bcb91dddea5a5eac2271c2d2aedb11e jordchen <jordchen@umich.edu> 1709690629 -0500	checkout: moving from jordan/fix_dying_on_spawn_bug to main
+d60c34402bcb91dddea5a5eac2271c2d2aedb11e cc59535c7cd85edd83fdc1dd133df981974435eb jordchen <jordchen@umich.edu> 1709690632 -0500	pull: Fast-forward
+cc59535c7cd85edd83fdc1dd133df981974435eb cc59535c7cd85edd83fdc1dd133df981974435eb jordchen <jordchen@umich.edu> 1709690709 -0500	checkout: moving from main to jordan/fix_multiple_submits
+cc59535c7cd85edd83fdc1dd133df981974435eb 866f5af404dc21a28cc49bc390b3e9bf4358d046 jordchen <jordchen@umich.edu> 1709691197 -0500	commit: fixed multiple submit issues
+866f5af404dc21a28cc49bc390b3e9bf4358d046 cc59535c7cd85edd83fdc1dd133df981974435eb jordchen <jordchen@umich.edu> 1709765192 -0500	checkout: moving from jordan/fix_multiple_submits to main
+cc59535c7cd85edd83fdc1dd133df981974435eb 69ad7bd9af123674f929507a4481c4120d8a681e jordchen <jordchen@umich.edu> 1726148325 -0400	pull (start): checkout 69ad7bd9af123674f929507a4481c4120d8a681e
+69ad7bd9af123674f929507a4481c4120d8a681e 69ad7bd9af123674f929507a4481c4120d8a681e jordchen <jordchen@umich.edu> 1726148325 -0400	pull (finish): returning to refs/heads/main

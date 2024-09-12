@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/JuicyJChen/Spinning-Around-.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "jordan/connect_spinning_around_to_ZLG_Library"]
+	vscode-merge-base = main
+[branch "jordan/fix_dying_on_spawn_bug"]
+	vscode-merge-base = jordan/connect_spinning_around_to_ZLG_Library
+[branch "jordan/fix_multiple_submits"]
+	vscode-merge-base = main
+[pull]
+	rebase = true
